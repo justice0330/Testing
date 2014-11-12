@@ -1,4 +1,0 @@
-Testing
-=======
-
-Only for testing
